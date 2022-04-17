@@ -1,4 +1,4 @@
-hello yx! hello git!
+hello yx! hello git!  version 2.0
 hello yx! hello git!
 hello yx! hello git!
 hello yx! hello git!
