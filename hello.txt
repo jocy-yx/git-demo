@@ -1,6 +1,6 @@
 hello yx! hello git!  version 2.0
 hello yx! hello git!  version 3.0
-hello yx! hello git!
+hello yx! hello git!  version hot-fix
 hello yx! hello git!
 hello yx! hello git!
 hello yx! hello git!
